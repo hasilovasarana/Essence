@@ -1,8 +1,27 @@
 body{
   margin:0px;
   font-family: 'Thasadith', sans-serif;
+  background-image: url("../img/hero-area.jpg");
+
+  background-repeat: repeat-x;
+  background-position-x: left;
+  background-position-y: left;
+  background-attachment: local;
+  /* background-size:50 100; */
+
+  /* background-size:cover; */
+  width:100vw;
+  height:100vh;
+
+
 }
 
-#demonstartion_video{
+#home .head_nav{
+  height:50px;
+}
+.logo{
+  
+}
+.nav{
 
 }
